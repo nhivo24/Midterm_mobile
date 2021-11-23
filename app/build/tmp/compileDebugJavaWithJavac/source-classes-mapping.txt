@@ -1,0 +1,2 @@
+com/example/food/BuildConfig.java
+ com.example.food.BuildConfig
